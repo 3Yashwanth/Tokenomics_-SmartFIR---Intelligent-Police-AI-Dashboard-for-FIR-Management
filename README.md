@@ -16,7 +16,7 @@ It eliminates manual form-filling, reduces reporting delays, and ensures every F
 
 ## 🖼️ System Architecture
 
-![Smart FIR Architecture](<img width="1920" height="1080" alt="C" src="https://github.com/user-attachments/assets/a7112ff0-2b45-4b2b-8854-1be57844e305" />)
+![Smart FIR Architecture](./C.png)
 
 
 *Figure 1: Smart FIR End-to-End Workflow Architecture*
