@@ -16,7 +16,8 @@ It eliminates manual form-filling, reduces reporting delays, and ensures every F
 
 ## 🖼️ System Architecture
 
-![Smart FIR Architecture](./C.png)
+![Smart FIR Architecture](<img width="1920" height="1080" alt="C" src="https://github.com/user-attachments/assets/a7112ff0-2b45-4b2b-8854-1be57844e305" />)
+
 
 *Figure 1: Smart FIR End-to-End Workflow Architecture*
 
@@ -185,17 +186,7 @@ Once saved and executed, the workflow automatically:
 * AI-driven fraud or duplicate FIR detection
 * WhatsApp notification support
 
----
 
-## 👨‍💻 Contributors
-
-| Name                     | Role                               | Organization    |
-| ------------------------ | ---------------------------------- | --------------- |
-| **Yogesh V**             | Lead Developer                     | Jain University |
-| **Tokenomics Tech**      | AI Systems & Workflow Architecture | —               |
-| **CRCE Innovation Team** | Mentorship & Research Support      | —               |
-
----
 
 ## 📜 License
 
